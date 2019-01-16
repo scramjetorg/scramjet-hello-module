@@ -1,0 +1,34 @@
+{
+  "name": "scramjet-hello-module",
+  "version": "1.0.0",
+  "description": "An example module for scramjet",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signicode/scramjet-hello-module.git"
+  },
+  "keywords": [
+    "stream",
+    "processing",
+    "hello",
+    "world"
+  ],
+  "author": "Signicode <open-source@signicode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/signicode/scramjet-hello-module/issues"
+  },
+  "homepage": "https://github.com/signicode/scramjet-hello-module#readme",
+  "peerDependencies": {
+    "scramjet": ">=4.21"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-config-scramjet": "git+https://github.com/signicode/eslint-plugin-scramjet.git",
+    "scramjet": "^4.20.2",
+    "scramjet-release-tools": "git+https://github.com/signicode/scramjet-release-tools.git"
+  }
+}
