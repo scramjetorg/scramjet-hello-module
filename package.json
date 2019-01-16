@@ -27,12 +27,11 @@
   },
   "homepage": "https://github.com/signicode/scramjet-hello-module#readme",
   "dependencies": {
-    "scramjet": ">=4.21"
+    "scramjet": ">=4.20"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
     "eslint-config-scramjet": "git+https://github.com/signicode/eslint-plugin-scramjet.git",
-    "scramjet": "^4.20.2",
     "scramjet-release-tools": "git+https://github.com/signicode/scramjet-release-tools.git"
   }
 }
