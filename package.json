@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/signicode/scramjet-hello-module#readme",
   "dependencies": {
-    "scramjet": ">=4.20"
+    "scramjet": ">=4.20.3"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
