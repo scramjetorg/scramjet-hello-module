@@ -4,7 +4,7 @@
   "description": "An example module for scramjet",
   "main": "index.js",
   "scripts": {
-    "test": "test/index"
+    "test": "bash test/run.sh"
   },
   "repository": {
     "type": "git",
