@@ -1,10 +1,11 @@
 {
   "name": "scramjet-hello-module",
   "version": "1.0.0",
-  "description": "An example module for scramjet",
-  "main": "index.js",
+  "description": "An example module for scramjet.",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "bash test/run.sh"
+    "test": "bash test/run.sh",
+    "preversion": "npm test"
   },
   "repository": {
     "type": "git",
@@ -21,8 +22,11 @@
   "bugs": {
     "url": "https://github.com/signicode/scramjet-hello-module/issues"
   },
+  "engines": {
+    "node": ">=8.6.0"
+  },
   "homepage": "https://github.com/signicode/scramjet-hello-module#readme",
-  "peerDependencies": {
+  "dependencies": {
     "scramjet": ">=4.21"
   },
   "devDependencies": {
