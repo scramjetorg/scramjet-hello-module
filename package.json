@@ -1,6 +1,6 @@
 {
   "name": "scramjet-hello-module",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "An example module for scramjet.",
   "main": "lib/index.js",
   "scripts": {
