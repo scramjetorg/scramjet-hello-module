@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/signicode/scramjet-hello-module.git"
+    "url": "git+https://github.com/scramjetorg/scramjet-hello-module.git"
   },
   "keywords": [
     "stream",
@@ -17,15 +17,15 @@
     "hello",
     "world"
   ],
-  "author": "Signicode <open-source@signicode.com>",
+  "author": "Scramjet <open-source@scramjet.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/signicode/scramjet-hello-module/issues"
+    "url": "https://github.com/scramjetorg/scramjet-hello-module/issues"
   },
   "engines": {
     "node": ">=8.6.0"
   },
-  "homepage": "https://github.com/signicode/scramjet-hello-module#readme",
+  "homepage": "https://github.com/scramjetorg/scramjet-hello-module#readme",
   "dependencies": {
     "scramjet": "^4.35.12"
   },
