@@ -30,9 +30,9 @@
     "scramjet": "^4.35.17"
   },
   "devDependencies": {
-    "eslint": "^7.26.0",
+    "eslint": "^7.28.0",
     "eslint-config-scramjet": "^3.0.0",
-    "nodeunit-tape-compat": "^1.3.77",
-    "scramjet-release-tools": "^1.5.9"
+    "nodeunit-tape-compat": "^1.3.78",
+    "scramjet-release-tools": "^1.5.10"
   }
 }
